@@ -1,6 +1,6 @@
 # 🧠 AI Resume Builder
 
-A modern web application that uses AI to generate professional and personalized resumes quickly and efficiently.  
+A modern web application that uses AI to generate professional and personalised resumes quickly and efficiently.  
 Built with **React**, **TypeScript**, and **Tailwind CSS**.
 
 ---
@@ -28,7 +28,7 @@ Built with **React**, **TypeScript**, and **Tailwind CSS**.
 ---
 
 ## 🔗 Live Demo
-👉 [View Deployed App](https://your-vercel-link.vercel.app)  
+👉 [View Deployed App](https://ai-resume-builder-rho-six.vercel.app/)  
 
 ---
 
